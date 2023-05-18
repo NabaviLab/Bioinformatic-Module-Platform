@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/tempNabaviBio/static/css/main.9b97c747.css",
+    "main.js": "/tempNabaviBio/static/js/main.5b7ae145.js",
+    "static/js/787.9bc10acb.chunk.js": "/tempNabaviBio/static/js/787.9bc10acb.chunk.js",
+    "static/media/bioinfo.png": "/tempNabaviBio/static/media/bioinfo.d45002469c34ff361ed3.png",
+    "static/media/dnaatcg.png": "/tempNabaviBio/static/media/dnaatcg.755bc5b86f5e13e0d65f.png",
+    "static/media/gvar.png": "/tempNabaviBio/static/media/gvar.6fdf3243b097d2adac81.png",
+    "static/media/pythoncode.png": "/tempNabaviBio/static/media/pythoncode.a1cad02c64c7966188b6.png",
+    "static/media/ethics.png": "/tempNabaviBio/static/media/ethics.ebdc93974f37b0241735.png",
+    "static/media/evolution.png": "/tempNabaviBio/static/media/evolution.0be1b0b67306a7d3ed1a.png",
+    "static/media/mod7.png": "/tempNabaviBio/static/media/mod7.46066c64b481625ef523.png",
+    "static/media/mod6.png": "/tempNabaviBio/static/media/mod6.8b7b35dc29a1e4eeab59.png",
+    "static/media/mod3.png": "/tempNabaviBio/static/media/mod3.be7b697d1a239d4045ce.png",
+    "static/media/mod2.png": "/tempNabaviBio/static/media/mod2.07a98139a3638f2a224b.png",
+    "static/media/mod4.png": "/tempNabaviBio/static/media/mod4.a6b58e018e0b5c484221.png",
+    "static/media/rna.png": "/tempNabaviBio/static/media/rna.d383d6b77956f9dcf4e3.png",
+    "static/media/biology.png": "/tempNabaviBio/static/media/biology.56ae1da53e2ccf09157f.png",
+    "static/media/mod5.png": "/tempNabaviBio/static/media/mod5.fe5a572eea0f7271e27e.png",
+    "static/media/mod9.png": "/tempNabaviBio/static/media/mod9.d3a85da13efdb5462c04.png",
+    "static/media/mod5.md": "/tempNabaviBio/static/media/mod5.4f3f9623c6f70f38add3.md",
+    "static/media/mod6.md": "/tempNabaviBio/static/media/mod6.081abcd07b68eb840432.md",
+    "static/media/mod3.md": "/tempNabaviBio/static/media/mod3.2ba06735d4aed01133ff.md",
+    "static/media/mod8.png": "/tempNabaviBio/static/media/mod8.4877bb714d379a2ceac5.png",
+    "static/media/mod9.md": "/tempNabaviBio/static/media/mod9.c7953db2536b756aa041.md",
+    "static/media/mod4.md": "/tempNabaviBio/static/media/mod4.6936465e4e7ed51a744f.md",
+    "static/media/mod8.md": "/tempNabaviBio/static/media/mod8.fb5f668269b8fb8b3243.md",
+    "static/media/mod2.md": "/tempNabaviBio/static/media/mod2.db14a05db05b641e9af4.md",
+    "index.html": "/tempNabaviBio/index.html",
+    "main.9b97c747.css.map": "/tempNabaviBio/static/css/main.9b97c747.css.map",
+    "main.5b7ae145.js.map": "/tempNabaviBio/static/js/main.5b7ae145.js.map",
+    "787.9bc10acb.chunk.js.map": "/tempNabaviBio/static/js/787.9bc10acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b97c747.css",
+    "static/js/main.5b7ae145.js"
+  ]
+}
