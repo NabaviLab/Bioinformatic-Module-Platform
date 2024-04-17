@@ -43,7 +43,7 @@ const About = () => {
           <span> Samson Weiner</span>
           <p class="job">
             {" "}
-            <b>Principal Investigator</b>
+            <b>PhD Candidate</b>
             <br></br>
             <br></br>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
@@ -70,7 +70,7 @@ const About = () => {
           <span> Hari Patchigolla</span>
           <p class="job">
             {" "}
-            <b>Principal Investigator</b>
+            <b>Undergraduate Student</b>
             <br></br>
             <br></br>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
@@ -97,7 +97,7 @@ const About = () => {
           <span> Lana Kareem</span>
           <p class="job">
             {" "}
-            <b>Principal Investigator</b>
+            <b>Undergraduate Student</b>
             <br></br>
             <br></br>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
